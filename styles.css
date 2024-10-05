@@ -1,0 +1,41 @@
+.title{
+    text-align: center;
+    color:blue;
+}
+
+body{
+    text-align: center;
+}
+
+.container1{
+    display: block;
+    margin: 5% auto;
+    width: 50%;
+}
+
+.button{
+   height: 200px;
+   width: 200px;
+    display: inline-block;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.pressed{
+    box-shadow: 0 0 10% white;
+    background-color: gray;
+}
